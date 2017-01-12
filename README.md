@@ -51,3 +51,6 @@ If you think that any information you obtained here is worth of some money and a
 </table>
 <h3>License</h3>
 Code released under the <a href="https://github.com/chsakell/mvcarchitecture/blob/master/licence" target="_blank"> MIT license</a>.
+
+
+https://chsakell.com/2015/02/15/asp-net-mvc-solution-architecture-best-practices/
